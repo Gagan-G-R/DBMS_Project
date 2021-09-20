@@ -17,4 +17,8 @@ https://www.edrawmax.com/online/share.html?code=6bb2a4ba19fd11ecbfa10a54be41f961
 
 
 -----------link to the documentation-------------
+<<<<<<< HEAD
 https://docs.google.com/document/d/1LaSR0NnF4DVCexYrzhoQDncVksioCaDFjp_ys7yd6A0/edit?usp=sharing
+=======
+https://docs.google.com/document/d/1LaSR0NnF4DVCexYrzhoQDncVksioCaDFjp_ys7yd6A0/edit?usp=sharing
+>>>>>>> 823489f79ba97c66d457248c04a5f4b1d7ae85c2
